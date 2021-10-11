@@ -1,0 +1,13 @@
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.deps.json
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.runtimeconfig.json
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.runtimeconfig.dev.json
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.dll
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/bin/Debug/netcoreapp3.1/BankEncapsulation.pdb
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.AssemblyInfo.cs
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.dll
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.pdb
+/Users/neha.melville/Desktop/Repo/BankEncapsulation/BankEncapsulation/obj/Debug/netcoreapp3.1/BankEncapsulation.genruntimeconfig.cache
